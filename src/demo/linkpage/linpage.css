@@ -16,7 +16,6 @@ body {
   border-radius: 5px;
   /* 鼠标手样式 */
   cursor: pointer;
-
 }
 
 img {
@@ -51,7 +50,6 @@ li {
   padding: 10px;
 }
 
-
 .background {
   position: fixed;
   z-index: -1;
@@ -80,6 +78,6 @@ td {
 thead th {
   text-transform: uppercase;
 }
-.td-purple{
-  background-color: purple;
+.td-color {
+  background-color: #81d8d0;
 }
