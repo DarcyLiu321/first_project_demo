@@ -26,6 +26,10 @@
   font-size: 1.5rem;
 }
 
+.logo{
+  font-size: 1.5em;
+}
+
 .mySpan {
   /* 外间距 */
   margin: 5px 10px;
@@ -39,6 +43,11 @@
   border-radius: 5px;
   /* 鼠标手样式 */
   cursor: pointer;
+
+  width: 70px;
+  display: inline-block;
+
+  text-align: center;
 }
 
 header {
@@ -54,7 +63,7 @@ header a {
 header img.headphoto {
   margin: 0;
   padding: 0;
-  width: 50px;
+  width: 40px;
   border-radius: 50%;
 }
 
